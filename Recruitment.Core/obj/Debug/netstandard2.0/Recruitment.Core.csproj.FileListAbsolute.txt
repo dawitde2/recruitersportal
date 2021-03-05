@@ -1,0 +1,9 @@
+C:\CodeAssignment\Recruitment\Recruitment.Core\bin\Debug\netstandard2.0\Recruitment.Core.deps.json
+C:\CodeAssignment\Recruitment\Recruitment.Core\bin\Debug\netstandard2.0\Recruitment.Core.dll
+C:\CodeAssignment\Recruitment\Recruitment.Core\bin\Debug\netstandard2.0\Recruitment.Core.pdb
+C:\CodeAssignment\Recruitment\Recruitment.Core\obj\Debug\netstandard2.0\Recruitment.Core.csprojAssemblyReference.cache
+C:\CodeAssignment\Recruitment\Recruitment.Core\obj\Debug\netstandard2.0\Recruitment.Core.AssemblyInfoInputs.cache
+C:\CodeAssignment\Recruitment\Recruitment.Core\obj\Debug\netstandard2.0\Recruitment.Core.AssemblyInfo.cs
+C:\CodeAssignment\Recruitment\Recruitment.Core\obj\Debug\netstandard2.0\Recruitment.Core.csproj.CoreCompileInputs.cache
+C:\CodeAssignment\Recruitment\Recruitment.Core\obj\Debug\netstandard2.0\Recruitment.Core.dll
+C:\CodeAssignment\Recruitment\Recruitment.Core\obj\Debug\netstandard2.0\Recruitment.Core.pdb

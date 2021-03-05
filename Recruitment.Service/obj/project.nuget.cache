@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWGmYZNcu83Wqm5/TV5gKXNkaJNBBt9miC1bOb9yGGF4dSnilcvtGis0rtwDIMrThcZAYCXq3Vr4nh8LoktDCw==",
+  "success": true,
+  "projectFilePath": "C:\\CodeAssignment\\Recruitment\\Recruitment.Service\\Recruitment.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\dpc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\dpc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dpc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dpc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

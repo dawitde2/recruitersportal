@@ -1,0 +1,15 @@
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Recruitment.Service.deps.json
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Recruitment.Service.dll
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Recruitment.Service.pdb
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Recruitment.Core.dll
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Recruitment.Data.dll
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Recruitment.Core.pdb
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Recruitment.Data.pdb
+C:\CodeAssignment\Recruitment\Recruitment.Service\obj\Debug\netstandard2.0\Recruitment.Service.csprojAssemblyReference.cache
+C:\CodeAssignment\Recruitment\Recruitment.Service\obj\Debug\netstandard2.0\Recruitment.Service.AssemblyInfoInputs.cache
+C:\CodeAssignment\Recruitment\Recruitment.Service\obj\Debug\netstandard2.0\Recruitment.Service.AssemblyInfo.cs
+C:\CodeAssignment\Recruitment\Recruitment.Service\obj\Debug\netstandard2.0\Recruitment.Service.csproj.CoreCompileInputs.cache
+C:\CodeAssignment\Recruitment\Recruitment.Service\obj\Debug\netstandard2.0\Recruitment.Service.csproj.CopyComplete
+C:\CodeAssignment\Recruitment\Recruitment.Service\obj\Debug\netstandard2.0\Recruitment.Service.dll
+C:\CodeAssignment\Recruitment\Recruitment.Service\obj\Debug\netstandard2.0\Recruitment.Service.pdb
+C:\CodeAssignment\Recruitment\Recruitment.Service\bin\Debug\netstandard2.0\Repository\employee-repository.json
